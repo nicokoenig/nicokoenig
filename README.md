@@ -1,5 +1,11 @@
-### Hi there 👋
+### Hey it's me - Nico 🎉
 
+- Frontend Developer, Edutainer and Coffee Lover 🔥
+- Works at <a href="https://github.com/coding-bootcamps-eu">Coding Bootcamps Eu</a> 🦸‍♂️
+- Loves Coffee ☕️
+- Rides cargo bikes 🚴‍♀️🚚
+
+☕️🦸‍♂️🎉☕️🦸‍♂️🎉☕️🦸‍♂️🎉☕️🦸‍♂️🎉☕️🦸‍♂️🎉☕️🦸‍♂️🎉☕️🦸‍♂️🎉☕️🦸‍♂️🎉☕️🦸‍♂️🎉
 <!--
 **nicokoenig/nicokoenig** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
